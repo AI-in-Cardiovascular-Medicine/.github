@@ -1,4 +1,4 @@
-# Welcome to AICVM :wave:
+# Welcome to AI-CVM :wave:
 
 <div align="center">
 <a href="">Website</a> | <a href="">Blog</a> </div>
