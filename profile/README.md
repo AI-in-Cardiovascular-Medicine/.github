@@ -8,6 +8,6 @@ The AI in the CardioVascular Medicine Laboratory (AI-CVM) primarily focuses on A
 
 ## AICVM Foundational Projects
 1. [AAOCA](https://github.com/AI-in-Cardiovascular-Medicine/AAOCA)</br>
-2. [BLOG](https://mb-neuro.medical-blocks.ch/public_access/projects)</br>
+2. [AAOCA BLOG](https://mb-neuro.medical-blocks.ch/public_access/projects)</br>
 3. [AIVUS-CAA](https://github.com/AI-in-Cardiovascular-Medicine/AIVUS-CAA)</br>
 4. [Automated Machine Learning Pipeline](https://github.com/AI-in-Cardiovascular-Medicine/ML_pipeline_tabular)</br>
